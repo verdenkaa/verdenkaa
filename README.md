@@ -1,4 +1,6 @@
-### Hi there 👋
+### My name is Nikita Pakhomov
+I am a beginning programmer. I have graduated from the Yandex Lyceum with honours in Python. At present, I am studying applied mathematics.
+
 
 <!--
 **verdenkaa/verdenkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
